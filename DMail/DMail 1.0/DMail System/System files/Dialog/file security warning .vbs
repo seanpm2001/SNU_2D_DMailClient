@@ -1,0 +1,1 @@
+x=msgbox("This file is in a possibly unsafe format. We recommend making sure you trust who you got the file from and you know what you are doing with it. This program may cause damage to your computer, and you should only run it if you are 100% sure. Please be careful", 2+16, "Security warning")

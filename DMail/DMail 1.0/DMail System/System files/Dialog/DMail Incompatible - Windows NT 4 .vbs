@@ -1,0 +1,1 @@
+x=msgbox("DMail is not supported on windows NT 4.0 Based systems. We only support windows XP and higher. You chose to install this on Windows NT 4, and it doesn't work due to compatibility issues", 2+16, "DMail incompatible - Windows NT 4")
