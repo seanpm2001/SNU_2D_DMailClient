@@ -1,0 +1,24 @@
+You can export DMails for offline use
+
+This is the list of the vast amount of formats you can download your DMails in:
+
+.txt
+.rtf
+.xps
+.png
+.gif
+.jpeg
+.tif
+.bmp
+.htm
+.mhtml
+.mhtm
+.html
+.rar
+.zip
+.7z
+.pns
+.psd
+.pdf
+.doc
+.docx
