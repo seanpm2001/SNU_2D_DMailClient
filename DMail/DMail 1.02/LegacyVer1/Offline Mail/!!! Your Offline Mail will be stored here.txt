@@ -1,0 +1,3 @@
+Your Offline Mail will be stored here
+
+when you download your Dmails, they will be placed in this offline folder
